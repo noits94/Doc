@@ -1,5 +1,11 @@
 Here are the extracted code snippets from the file:
 
+Commands to build and run for all inside the folder
+```bash
+docker build -t folder .
+docker run -it folder
+```
+
 **Experiment 1: Hello World Docker App**
 - `app.py`
 ```python
